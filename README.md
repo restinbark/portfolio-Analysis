@@ -88,6 +88,15 @@ Efficient Frontier (Monte Carlo simulated portfolios)
 Bar charts of optimal portfolio weights
 
 Example plot:
+### Efficient Frontier
+![Efficient Frontier](reports/figures/efficient_frontier.png)
+
+### Max Sharpe Portfolio Weights
+![Max Sharpe Weights](reports/figures/max_sharpe_weights.png)
+
+### Min Volatility Portfolio Weights
+![Min Volatility Weights](reports/figures/min_vol_weights.png)
+
 
 
 6. Installation & Usage
